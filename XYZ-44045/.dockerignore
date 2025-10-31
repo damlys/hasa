@@ -1,0 +1,10 @@
+*debug*
+
+# system
+.DS_Store
+*.bak
+*.swp
+*.tmp
+*~
+desktop.ini
+thumbs.db
